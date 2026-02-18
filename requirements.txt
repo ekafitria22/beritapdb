@@ -2,3 +2,7 @@ pandas==2.2.3
 streamlit
 pip==23.3.1
 streamlit-aggrid==1.1.4.post1
+requests==2.32.5
+beautifulsoup4==4.14.3
+lxml==6.0.2
+openpyxl==3.1.5
